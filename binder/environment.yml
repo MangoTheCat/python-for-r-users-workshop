@@ -1,0 +1,9 @@
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - statsmodels
+  - sklearn
+  - bokeh
+  - yellowbrick
